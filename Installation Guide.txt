@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------------------------------------------------
+								ASTPP INSTALLATION GUIDE (COMMUNITY EDITION)
+--------------------------------------------------------------------------------------------------------------------------
+
+INSTALLATION
+============
+Step 1: Copy install.sh file on to your server in /usr/src/ director. 
+		Example command: scp install.sh root@yourserverip:/usr/src/.
+		You can also upload using filezilla. 
+
+
+Step 2: Set execute permission to install.sh file. 
+		cd /usr/src/
+		chmod +x install.sh
+
+Step 3: Start installation process. 
+		./install.sh		
+
+Once installation done, save the information at safe place. 
+
+
+QUICK START
+=============
+https://docs.astppbilling.org/display/itplmars/Quick+Start
+
+
+DOCUMENTATION
+=============
+Doc: https://docs.astppbilling.org/display/itplmars/ASTPP
+Video Tutorials: http://www.astppbilling.org/gallery/
+
+
+COMMUNITY
+============
+Forums: https://forum.astppbilling.org/
+Bug Tracker: https://jira.astppbilling.org/
+Chatter: https://gitter.im/ASTPP-Official/Lobby
+How to Contribute: https://docs.astppbilling.org/display/itplmars/How+to+Contribute
+
+
+SECURITY
+============
+Report security issues to our Security email address security@astppbilling.org.
+
+
+CONTACTUS: 
+============
+https://www.astppbilling.org/contact-us/
